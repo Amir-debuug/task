@@ -87,5 +87,5 @@ To get started with the task management web application, follow the instructions
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/amir-debuug/task-management.git
+   git clone https://github.com/amir-debuug/task.git
    ```
