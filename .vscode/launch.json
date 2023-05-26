@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Identifee",
+        "cwd": "${workspaceFolder}/api",
+        "runtimeVersion": "16.14.2",
+        "runtimeExecutable": "npm",
+        "runtimeArgs": ["run-script", "start"]
+      }
+    ]
+  }
+  
